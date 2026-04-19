@@ -76,3 +76,10 @@ This project is developed under the **CodeAlpha Internship Program**.
 ## 👤 Author
 
 Samrudhi Manohar Wasnik
+
+\## 📸 Screenshot
+<img width="1677" height="911" alt="image" src="https://github.com/user-attachments/assets/27dc0124-8d5f-4013-8729-ea466fb1297b" />
+
+
+
+
